@@ -48,4 +48,4 @@ CUSTOMER_SEGMENTATION/
 ```
 
 ###  Insights dataviz:
-- Dashboard with main insights and clusters found : [link to Google DataStudio](https://datastudio.google.com/reporting/92343e86-9e99-4ec2-9400-d7223fd95fe7)
+- WIP Dashboard with main insights and clusters found : [link to Google DataStudio](https://datastudio.google.com/reporting/92343e86-9e99-4ec2-9400-d7223fd95fe7)
